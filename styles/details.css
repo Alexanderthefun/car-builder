@@ -1,0 +1,76 @@
+
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+
+.paintColors {
+    border: 2px dotted skyblue;
+    border-radius: 8px;
+    background-color: beige;
+    width: 200px;
+    padding-top: 0px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    box-shadow: 2px 2px 4px lightslategray
+}
+
+.interiors {
+    border: 2px dotted skyblue;
+    border-radius: 8px;
+    background-color: beige;
+    width: 200px;
+    padding-top: 0px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;   
+    margin-bottom: 20px; 
+    margin-left: 50px;
+    box-shadow: 2px 2px 4px lightslategray
+}
+
+.technologies {
+    border: 2px dotted skyblue;
+    border-radius: 8px;
+    background-color: beige;
+    width: 200px;
+    padding-top: 0px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 50px;
+    box-shadow: 2px 2px 4px lightslategray
+}
+
+.wheels {
+    border: 2px dotted skyblue;
+    border-radius: 8px;
+    background-color: beige;
+    width: 200px;
+    padding-top: 0px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 50px;
+    box-shadow: 2px 2px 4px lightslategray
+}
+
+#orderButton {
+    background-color: darkgreen;
+    color: antiquewhite;
+}
+
+.orderNum {
+    background-color: aliceblue;
+    border: 1px dashed darkolivegreen
+}
